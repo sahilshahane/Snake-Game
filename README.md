@@ -1,1 +1,4 @@
-To play the game visit here : https://sahilbest999.github.io/Snake-Game/index.html
+To play the game visit here : https://sahilshahane.github.io/Snake-Game/index.html
+
+[Player Controls] \
+Use Arrow keys to control the snake
